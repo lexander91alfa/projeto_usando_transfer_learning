@@ -10,7 +10,7 @@ Aumento de dados: Aplica técnicas de aumento de dados para aumentar a variedade
 Avaliação e testes: Scripts para avaliar o desempenho do modelo e realizar testes em tempo real com novas imagens.
 Guia de configuração: Instruções detalhadas para configurar o ambiente e usar o modelo.
 
-##Como usar:
+## Como usar:
 
 Clone este repositório.
 Instale as dependências necessárias.
