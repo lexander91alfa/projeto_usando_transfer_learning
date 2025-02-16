@@ -12,12 +12,11 @@ Guia de configuração: Instruções detalhadas para configurar o ambiente e usa
 
 ## Como usar:
 
-Clone este repositório.
-Instale as dependências necessárias.
-Baixe o conjunto de dados de imagens de gatos e cachorros.
-Execute os scripts de treinamento e avaliação.
-Utilize o modelo treinado para classificar novas imagens.
-Contribuições:
+- Clone este repositório.
+- Instale as dependências necessárias.
+- Baixe o conjunto de dados de imagens de gatos e cachorros.
+- Execute os scripts de treinamento e avaliação.
+- Utilize o modelo treinado para classificar novas imagens.
 
 ## Observações:
 
